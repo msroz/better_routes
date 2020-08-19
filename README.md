@@ -1,6 +1,6 @@
 # 🖌 BetterRoutes
 
-Print rials routes with various formats.  
+Print rails routes with various formats.  
 It is easy way to copy and paste on Spreadsheet, GitHub and so on :)
 
 ## 🤲 Usage
